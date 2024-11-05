@@ -21,7 +21,7 @@
 
 # ✨ 体验地址
 
-在线体验：[https://www.chatpet.top]([https://www.chatpet.top])
+在线体验：[https://www.chatpet.top]([!https://www.chatpet.top])
 
 [演示视频]()
 
