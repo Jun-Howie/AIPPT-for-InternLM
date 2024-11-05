@@ -5,10 +5,10 @@
 </p>
 <p align="center">
 	<a href="https://www.chatpet.top" target="_blank">🔗技术架构</a>
-	<span>  •  </span>
-	<a href="hhttps://www.chatpet.top" target="_blank">🌏体验地址</a>
-	<span>  •  </span>
-	<a href="#-商业合作">💬合作交流</a>
+	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+	<a href="https://www.chatpet.top" target="_blank">🌏体验地址</a>
+	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+	<a href="#-商业合作">💬</a>
 </p>
 
 # 🤖 技术架构
@@ -21,7 +21,7 @@
 
 # ✨ 体验地址
 
-在线体验：[https://www.chatpet.top]([https://www.chatpet.top]())
+在线体验：https://www.chatpet.top
 
 [演示视频]()
 
