@@ -8,7 +8,9 @@
 	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 	<a href="https://www.chatpet.top" target="_blank">🌏体验地址</a>
 	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-	<a href="#-商业合作">💬</a>
+	<a href="#-商业合作">💬未来展望</a>
+	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+	<a href="#-商业合作">项目交流</a>
 </p>
 
 # 🤖 技术架构
@@ -31,4 +33,5 @@
 
 2.使生成的PPT更利于展示，分享及传播
 
-# 🤝 项目交流
+#  项目交流
+
