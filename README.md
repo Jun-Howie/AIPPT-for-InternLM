@@ -25,7 +25,7 @@
 
 在线体验：https://www.chatpet.top
 
-[演示视频]()
+[演示视频](https://www.bilibili.com/video/BV1eyDgYnE33)
 
 # 🤝 未来展望
 
